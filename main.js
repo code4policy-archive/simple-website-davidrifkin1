@@ -1,6 +1,6 @@
 // Define a Function
 function sayOuch() {
-	alert('Hey, you just clicked the logo!');
+	alert('Congratulations, you selected the logo!');
 }
 
 // Use a CSS selector to identify an element
